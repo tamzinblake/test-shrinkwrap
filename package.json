@@ -1,0 +1,14 @@
+{
+  "name": "test-shrinkwrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thom Blake <thethomblake@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "ember-freestyle": "^0.2.12"
+  }
+}
